@@ -17,11 +17,17 @@ Windows用のOutlook専用の自動CSVファイル更新・配信メール作成
 │  config.py # 設定ファイル
 │  csv_hander.py # CSVを扱うクラス
 │  emailer.py # メール検索・作成クラス
-│  excel_hander.py # (Excelを配信するためのクラス。マクロを更新できたができなくなったので未使用)
+│  excel_hander.py # (Excelを配信するためのクラス。マクロを実行できたが、できなくなったので未使用)
 └─ main.py # 実行ファイル
 ```
 
-## 実行とoutput例
+## 実行方法 
+
+```shell
+python main.py '検索したいメールのタイトル名'
+```
+
+## output例
 
 ```shell
 python3 main.py Subject
