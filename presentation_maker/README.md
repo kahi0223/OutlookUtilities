@@ -8,6 +8,8 @@ the minimam scripts can create presentation
 
 use same format everytime
 
+override to pptx
+
 ## setting once
 
 - create master slide and give name and number to each slide in ppxt
