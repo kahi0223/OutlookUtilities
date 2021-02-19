@@ -1,4 +1,4 @@
-# monthly power point maker with pic
+# monthly presentationmaker with pica
 
 to create monthly report with pics
 
