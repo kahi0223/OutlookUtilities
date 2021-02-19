@@ -1,5 +1,7 @@
 # OutlookUtilities
 
-Outlook関連の自動化スクリプト。
+Scripts for outlook
 
-Windowsのデスクトップ版向け。
+To automatize routine tasks
+
+Only for windows
