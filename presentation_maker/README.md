@@ -17,6 +17,13 @@ override to pptx
 - decide indents and color by lines in script
 
 ## setting each time
+
 - presentation title
 - slide titles
 - text dicts
+
+## how to run
+
+```python
+python3 main.py
+```
